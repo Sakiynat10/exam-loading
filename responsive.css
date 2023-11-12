@@ -1,0 +1,55 @@
+@media (max-width: 1075px){
+      
+      .home-elements{
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 25%;
+        margin-right: 30%;
+      }
+
+      .home-elements>div{
+        margin-bottom: 30px;
+      }
+
+      
+
+      .about-elements{
+        flex-wrap: wrap;
+        margin-left: 25%;
+        margin-right: 30%;
+      }
+
+      .about-elements>div{
+        margin-bottom: 50px;
+      }
+
+
+      .bottom-review>div{
+        margin-top: 20px;
+        display: block;
+        margin-left: 30%;
+        width: 100%;
+      }
+
+      .bottom-review .box{
+        margin-top: 20px;
+      }
+
+      .top-review img{
+        margin-left: 10%;
+        margin-top: 20px;
+      }
+
+      .top-review h1{
+        margin-left: -20%;
+        padding-right: 20px;      }
+
+      .contact{
+        display: none;
+      }
+
+}
+
+@media(max-width:800px){
+    
+}
